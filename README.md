@@ -1,2 +1,1 @@
-# Melody
-project
+# Melody-project
